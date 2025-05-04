@@ -1,2 +1,2 @@
 # project-euler
-Project Euler problem solutions
+Project Euler problem solution code, written in C.
